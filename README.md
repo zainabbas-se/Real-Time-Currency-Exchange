@@ -68,8 +68,9 @@ Output:
 ---
 
 ## 📸 Screenshot Example
-Replace with your actual app screenshot:  
-`/screenshots/app_preview.png`
+Here’s a preview of the app in action 👇
+
+![App Screenshot](https://github.com/zainabbas-se/Real-Time-Currency-Exchange/blob/main/assets/Project_ss.png)
 
 ---
 
